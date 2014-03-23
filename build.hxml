@@ -1,0 +1,4 @@
+-cp src
+-cp demo
+-main Main
+--macro sqf.gen.SqfGenerator.use('bin/test.sqf')
